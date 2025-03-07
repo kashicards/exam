@@ -10,7 +10,7 @@
 
 📖 **Definition / Kurzfassung:**
 
-> Steuern sind verpflichtende Abgaben, die von den Bürgern an den Staat und andere öffentliche Institutionen gezahlt werden, um öffentliche Aufgaben zu finanzieren. Sie sind nicht unmittelbar für eine spezielle Leistung oder Gegenleistung vorgesehen und dienen der Erzielung von Einnahmen zur Deckung des Staatsbedarfs. Die Steuerlast wird nach der Leistungsfähigkeit des Steuerpflichtigen verteilt.
+> _Steuern sind verpflichtende Abgaben, die von den Bürgern an den Staat und andere öffentliche Institutionen gezahlt werden, um öffentliche Aufgaben zu finanzieren. Sie sind nicht unmittelbar für eine spezielle Leistung oder Gegenleistung vorgesehen und dienen der Erzielung von Einnahmen zur Deckung des Staatsbedarfs. Die Steuerlast wird nach der Leistungsfähigkeit des Steuerpflichtigen verteilt.
 
 🔑 **Wichtige Begriffe:**
 

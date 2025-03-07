@@ -9,7 +9,7 @@
 
 📖 **Definition / Kurzfassung:**
 
-> Individuelle Vermögensbildung bezeichnet den Prozess, bei dem eine Person durch regelmäßiges Sparen, Investieren und andere finanzielle Maßnahmen Vermögen aufbaut. Ziel ist es, die eigene finanzielle Zukunft abzusichern, um zum Beispiel im Alter unabhängiger zu sein oder unvorhergesehene Lebensereignisse besser bewältigen zu können.
+> _Individuelle Vermögensbildung bezeichnet den Prozess, bei dem eine Person durch regelmäßiges Sparen, Investieren und andere finanzielle Maßnahmen Vermögen aufbaut. Ziel ist es, die eigene finanzielle Zukunft abzusichern, um zum Beispiel im Alter unabhängiger zu sein oder unvorhergesehene Lebensereignisse besser bewältigen zu können.
 
 🔑 **Wichtige Begriffe:**
 
@@ -24,18 +24,18 @@
 
 📜 **Gesetze & Paragraphen:**
 
-- **Bürgerliches Gesetzbuch (BGB), § 607-853** – Regelt die Grundlagen des Sparens und der Vermögensverwaltung in Deutschland.
+- **[[Bürgerliches Gesetzbuch (BGB)]], § 607-853** – Regelt die Grundlagen des Sparens und der Vermögensverwaltung in Deutschland.
 - **Kapitalanlagegesetzbuch (KAGB)** – Dieses Gesetz regelt den Umgang mit Kapitalanlagen und die Pflichten von Investoren und Kapitalverwaltungsgesellschaften.
 - **Steuergesetze** – In Deutschland gibt es spezielle Regelungen, die den Besteuerungsrahmen für Kapitalerträge (z. B. Abgeltungssteuer auf Kapitalgewinne) festlegen.
 - **Altersvorsorgegesetze** – Dazu gehören beispielsweise Regelungen zu Riester-Rente, Rürup-Rente und betrieblicher Altersvorsorge, die steuerliche Vorteile bieten und zur individuellen Vermögensbildung beitragen.
 
 ⚖️ **Wichtige Regeln / Vorschriften:**
 
-|Regelung|Bedeutung / Auswirkung|
-|---|---|
-|**Abgeltungssteuer**|Kapitalerträge werden mit einer pauschalen Steuer von 26,375 % besteuert, die bei der Bank abgeführt wird.|
-|**Riester-Rente**|Eine staatlich geförderte private Altersvorsorge, bei der der Staat Zulagen gewährt und Beiträge steuerlich abzugsfähig sind.|
-|**Betriebliche Altersvorsorge**|Arbeitnehmer können durch betriebliche Altersvorsorge Modelle wie Entgeltumwandlung oder Direktversicherung steuerliche Vorteile genießen.|
+| Regelung                        | Bedeutung / Auswirkung                                                                                                                     |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Abgeltungssteuer**            | Kapitalerträge werden mit einer pauschalen Steuer von 26,375 % besteuert, die bei der Bank abgeführt wird.                                 |
+| **Riester-Rente**               | Eine staatlich geförderte private Altersvorsorge, bei der der Staat Zulagen gewährt und Beiträge steuerlich abzugsfähig sind.              |
+| **Betriebliche Altersvorsorge** | Arbeitnehmer können durch betriebliche Altersvorsorge Modelle wie Entgeltumwandlung oder Direktversicherung steuerliche Vorteile genießen. |
 
 ---
 

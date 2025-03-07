@@ -10,7 +10,7 @@
 
 📖 **Definition / Kurzfassung:**
 
-> Arbeitgeber- und Arbeitnehmerorganisationen sind Interessenvertretungen auf dem Arbeitsmarkt. Arbeitgeberorganisationen setzen sich für die wirtschaftlichen Interessen der Unternehmen ein, während Arbeitnehmerorganisationen (Gewerkschaften) die Rechte der Beschäftigten vertreten.
+> _Arbeitgeber- und Arbeitnehmerorganisationen sind Interessenvertretungen auf dem Arbeitsmarkt. Arbeitgeberorganisationen setzen sich für die wirtschaftlichen Interessen der Unternehmen ein, während Arbeitnehmerorganisationen (Gewerkschaften) die Rechte der Beschäftigten vertreten.
 
 🔑 **Wichtige Begriffe:**
 
