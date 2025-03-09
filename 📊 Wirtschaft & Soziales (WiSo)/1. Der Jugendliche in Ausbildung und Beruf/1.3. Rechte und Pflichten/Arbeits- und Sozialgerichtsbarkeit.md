@@ -1,10 +1,4 @@
 # Arbeits- und Sozialgerichtsbarkeit  
-📌 **Thema:** Arbeits- und Sozialgerichtsbarkeit  
-📅 **Letzte Überarbeitung:** {{date:2025-02-22}}  
-🗂 **Kategorie:** #rechte-und-pflichten  
-
----
-
 ## 🔹 1. Überblick  
 📖 **Definition / Kurzfassung:**  
 > Die Arbeitsgerichtsbarkeit regelt Streitigkeiten zwischen Arbeitgebern und Arbeitnehmern, während die Sozialgerichtsbarkeit für sozialrechtliche Streitfälle (z. B. Renten, Krankenkassen, Bürgergeld) zuständig ist.  

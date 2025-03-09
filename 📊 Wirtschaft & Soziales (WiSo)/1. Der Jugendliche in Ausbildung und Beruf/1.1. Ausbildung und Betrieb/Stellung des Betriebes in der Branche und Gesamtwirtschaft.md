@@ -1,11 +1,4 @@
 # Stellung des Betriebes in der Branche und Gesamtwirtschaft
-
-📌 **Thema:** Stellung des Betriebes in der Branche und Gesamtwirtschaft  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

@@ -1,14 +1,9 @@
 # Nachhaltigkeit
-📌 **Thema:** Nachhaltigkeit
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO  
-
----
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**
 
-> Nachhaltigkeit im Kontext der sozialen Sicherung bedeutet, dass soziale Absicherungssysteme nicht nur kurzfristig für die Existenzsicherung der Bürger sorgen, sondern auch langfristig tragfähig bleiben. Es geht darum, Ressourcen gerecht und verantwortungsvoll zu verteilen, um die soziale Gerechtigkeit auch in der Zukunft zu gewährleisten. Zielkonflikte entstehen, wenn kurzfristige Maßnahmen zur Sicherung der Existenz mit langfristigen Zielen wie der Stabilität des sozialen Systems oder der ökologischen Nachhaltigkeit kollidieren.
+> _Nachhaltigkeit im Kontext der sozialen Sicherung bedeutet, dass soziale Absicherungssysteme nicht nur kurzfristig für die Existenzsicherung der Bürger sorgen, sondern auch langfristig tragfähig bleiben. Es geht darum, Ressourcen gerecht und verantwortungsvoll zu verteilen, um die soziale Gerechtigkeit auch in der Zukunft zu gewährleisten. Zielkonflikte entstehen, wenn kurzfristige Maßnahmen zur Sicherung der Existenz mit langfristigen Zielen wie der Stabilität des sozialen Systems oder der ökologischen Nachhaltigkeit kollidieren._
 
 🔑 **Wichtige Begriffe:**
 
@@ -49,21 +44,3 @@
 
 - **Fallbeispiel:** Die gesetzliche Rentenversicherung in Deutschland steht unter dem Druck einer alternden Gesellschaft. Während kurzfristig die Renten durch Umverteilung gesichert werden, könnte es langfristig zu einer Finanzierungsproblematik kommen, wenn weniger Menschen in das System einzahlen und gleichzeitig die Zahl der Rentner steigt.
 - **Wie würde man es lösen?** Eine Lösung könnte in der Reform des Rentensystems liegen, etwa durch die Einführung von flexiblen Renteneintrittsaltern oder durch die Förderung zusätzlicher privater Altersvorsorgeformen. Auch eine stärkere Einbeziehung der Erwerbstätigen in die Altersvorsorge könnte zu einer langfristigen Finanzierung beitragen.
-
----
-
-## 🔹 4. Verknüpfungen & Notizen
-
-🔗 **Verwandte Themen:**
-
-- [[Soziale Marktwirtschaft]]
-- [[Nachhaltige Existenzsicherung]]
-- [[Zielkonflikte in der sozialen Sicherung]]
-- [[Solidarität und Eigenverantwortung]]
-- [[Demographischer Wandel]]
-
-📝 **Eigene Anmerkungen & Ergänzungen:**
-
-- Nachhaltigkeit in der sozialen Sicherung ist besonders herausfordernd, da eine langfristige Planung notwendig ist, die den demografischen Wandel und die wirtschaftliche Entwicklung berücksichtigt.
-- Ein wesentlicher Zielkonflikt ergibt sich aus der Frage, wie die soziale Absicherung der Bürger gewährleistet werden kann, ohne das System selbst zu überlasten. Dies erfordert eine nachhaltige Finanzplanung und die Förderung der Eigenverantwortung.
-- In der Praxis könnten Maßnahmen zur Bekämpfung von Altersarmut und die Förderung der privaten Altersvorsorge ebenfalls zur langfristigen Stabilität des Systems beitragen.

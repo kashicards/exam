@@ -1,11 +1,4 @@
 # Arbeitgeber- und Arbeitnehmerorganisationen
-
-📌 **Thema:** Arbeitgeber- und Arbeitnehmerorganisationen  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** #gewerkschaften-und-mitbestimmung
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

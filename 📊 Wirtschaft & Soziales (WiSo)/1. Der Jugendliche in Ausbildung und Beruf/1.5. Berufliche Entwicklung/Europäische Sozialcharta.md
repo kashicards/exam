@@ -1,11 +1,4 @@
-# **Europäische Sozialcharta**
-
-📌 **Thema:** Europäische Sozialcharta  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO
-
----
-
+# Europäische Sozialcharta
 ## ⚖️ 1. Überblick
 
 📚 **Definition / Kurzfassung:**

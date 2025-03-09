@@ -1,11 +1,4 @@
 # Gesetzliche und private Vorsorge
-
-📌 **Thema:** Gesetzliche und private Vorsorge  
-📅 **Letzte Überarbeitung:** 2025-03-04  
-🗂 **Kategorie:** WISO
-
----
-
 ## 1️⃣ Überblick
 
 ### 🔍 Definition

@@ -1,11 +1,4 @@
 # Präsentation des Ausbildungsbetriebes
-
-📌 **Thema:** Präsentation des Ausbildungsbetriebes  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

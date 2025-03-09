@@ -1,10 +1,4 @@
 # Haushaltsplan und Überschuldung
-📌 **Thema:** Haushaltsplan und Überschuldung
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO  
-
----
-
 ## 🔹 1. Überblick
 
 📚 **Definition / Kurzfassung:**

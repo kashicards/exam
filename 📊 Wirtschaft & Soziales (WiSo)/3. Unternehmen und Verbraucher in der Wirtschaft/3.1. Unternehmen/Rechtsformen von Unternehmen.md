@@ -1,11 +1,4 @@
 # Rechtsformen von Unternehmen
-
-📌 **Thema:** Rechtsformen von Unternehmen  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**
@@ -39,7 +32,7 @@
 🔄 **Unterschiede zwischen Personen- und Kapitalgesellschaften:**
 
 - **Personengesellschaften** (z. B. GbR, OHG, KG): Persönliche Haftung, enge Bindung an Gesellschafter.
-- **Kapitalgesellschaften** (z. B. GmbH, UG, AG): Haftungsbeschränkung, aufwendigere Gründung, strenge Buchführungspflichten.
+- **Kapitalgesellschaften** (z. B. GmbH, UG, AG): Haftungsbeschränkung, aufwendigere Gründung, strenge Buchführungspflichten. 
 
 ---
 

@@ -1,11 +1,4 @@
 # Mobilität und Flexibilität im Beruf
-
-📌 **Thema:** Mobilität und Flexibilität im Beruf 
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

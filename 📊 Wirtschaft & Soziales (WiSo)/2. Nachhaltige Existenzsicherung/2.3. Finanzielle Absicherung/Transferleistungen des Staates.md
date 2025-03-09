@@ -1,16 +1,9 @@
 # Transferleistungen des Staates
-
-📌 **Thema:** Transferleistungen des Staates  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**
 
-> Transferleistungen des Staates sind finanzielle oder sachliche Zuwendungen, die ohne direkte Gegenleistung an Bürger oder Unternehmen vergeben werden. Sie dienen der sozialen Sicherung und der wirtschaftlichen Stabilisierung.
+> _Transferleistungen des Staates sind finanzielle oder sachliche Zuwendungen, die ohne direkte Gegenleistung an Bürger oder Unternehmen vergeben werden. Sie dienen der sozialen Sicherung und der wirtschaftlichen Stabilisierung._
 
 🔑 **Wichtige Begriffe:**
 
@@ -53,20 +46,3 @@
 
 - **Fallbeispiel:** Ein Arbeitnehmer verliert nach 10 Jahren seinen Job und stellt einen Antrag auf Arbeitslosengeld.
 - **Lösung:** Er hat Anspruch auf **Arbeitslosengeld I**, da er in die Arbeitslosenversicherung eingezahlt hat. Falls dieses ausläuft und er weiterhin arbeitslos ist, kann er Arbeitslosengeld II (Bürgergeld) beantragen.
-
----
-
-## 🔹 4. Verknüpfungen & Notizen
-
-🔗 **Verwandte Themen:**
-
-- [[Sozialversicherungssystem]]
-- [[Steuerliche Entlastungen]]
-
-📝 **Eigene Anmerkungen & Ergänzungen:**
-
-- Unterschiedliche Transferleistungen haben verschiedene gesellschaftliche Ziele: Armutsbekämpfung, Wirtschaftsförderung, soziale Gerechtigkeit.
-- Neben direkten Geldleistungen gibt es auch **Sachleistungen** (z. B. Schulbücher, Wohnraumförderung).
-- Sozialleistungen können beantragt werden – Antragsverfahren sind oft komplex.
-
----

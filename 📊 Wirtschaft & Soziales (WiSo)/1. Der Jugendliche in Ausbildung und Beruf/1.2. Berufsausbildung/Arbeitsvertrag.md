@@ -1,19 +1,4 @@
 # Arbeitsvertrag
-📌 **Thema:** Arbeitsvertrag
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** #berufsausbildung  
-
-Hier ist die detaillierte Übersicht zum **Arbeitsvertrag** für deine WISO IHK Abschlussprüfung:
-
----
-
-## 📌 **Thema:** Arbeitsvertrag
-
-📅 **Letzte Überarbeitung:** März 2025  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**  

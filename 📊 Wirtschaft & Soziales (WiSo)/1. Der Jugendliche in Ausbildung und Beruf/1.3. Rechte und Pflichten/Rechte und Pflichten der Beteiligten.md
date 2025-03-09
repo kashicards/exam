@@ -1,11 +1,4 @@
 # Rechte und Pflichten der Beteiligten
-
-📌 **Thema:** Rechte und Pflichten in der Ausbildung  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** #rechte-und-pflichten  
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

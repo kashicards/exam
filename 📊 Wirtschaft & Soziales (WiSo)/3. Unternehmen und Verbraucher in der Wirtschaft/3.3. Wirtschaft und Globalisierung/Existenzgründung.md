@@ -93,3 +93,5 @@
 - Netzwerke und Beratung (z. B. IHK, Gründerzentren) können wertvolle Unterstützung bieten.
 
 ---
+
+# GENAUER AUF MARKETINGSTRATIERGE

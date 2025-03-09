@@ -1,16 +1,9 @@
 # Individuelle Lebensplanung & Nachhaltige Existenzsicherung
-
-📌 **Thema:** Individuelle Lebensplanung & nachhaltige Existenzsicherung  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**
 
-> Individuelle Lebensplanung umfasst die bewusste Gestaltung der eigenen Zukunft in finanzieller, beruflicher und persönlicher Hinsicht. Nachhaltige Existenzsicherung bedeutet, langfristige Strategien zur finanziellen Unabhängigkeit und sozialen Absicherung zu entwickeln.
+> _Individuelle Lebensplanung umfasst die bewusste Gestaltung der eigenen Zukunft in finanzieller, beruflicher und persönlicher Hinsicht. Nachhaltige Existenzsicherung bedeutet, langfristige Strategien zur finanziellen Unabhängigkeit und sozialen Absicherung zu entwickeln._
 
 🔑 **Wichtige Begriffe:**
 
@@ -57,21 +50,3 @@
 
 - **Fallbeispiel:** Ein Arbeitnehmer plant, sich langfristig finanziell abzusichern.
 - **Lösung:** Er nutzt die gesetzliche Rentenversicherung, investiert zusätzlich in eine private Altersvorsorge und bildet sich weiter, um beruflich aufzusteigen.
-
----
-
-## 🔹 4. Verknüpfungen & Notizen
-
-🔗 **Verwandte Themen:**
-
-- [[Soziale Sicherungssysteme]]
-- [[Steuerliche Entlastungen]]
-- [[Karriere- und Weiterbildungsplanung]]
-
-📝 **Eigene Anmerkungen & Ergänzungen:**
-
-- Eine frühzeitige Finanzplanung verhindert spätere finanzielle Engpässe.
-- Der Aufbau eines Notgroschens kann kurzfristige Krisen (z. B. Jobverlust) abfedern.
-- Wer Schulden vermeidet und strategisch investiert, sichert sich langfristige finanzielle Unabhängigkeit.
-
----

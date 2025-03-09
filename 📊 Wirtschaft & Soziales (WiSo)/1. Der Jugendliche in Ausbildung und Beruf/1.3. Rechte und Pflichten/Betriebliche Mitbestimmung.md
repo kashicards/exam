@@ -1,11 +1,4 @@
 # ⚡ Betriebliche Mitbestimmung
-
-📌 **Thema:** Betriebliche Mitbestimmung  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:**  #rechte-und-pflichten  
-
----
-
 ## 🔹 1. Überblick
 
 📚 **Definition / Kurzfassung:**

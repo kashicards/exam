@@ -1,11 +1,4 @@
 # Duales System der Ausbildung
-
-📌 **Thema:** Das duale System der Ausbildung  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** #berufsausbildung
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

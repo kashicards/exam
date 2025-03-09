@@ -1,21 +1,15 @@
 # Karriereplanung
-
-📌 **Thema:** Karriereplanung  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**
 
-> _Die Karriereplanung umfasst die systematische Planung und Umsetzung beruflicher Ziele. Sie beinhaltet die Analyse der eigenen Stärken, Schwächen, Chancen und Risiken sowie die Entwicklung von Strategien zur Erreichung langfristiger beruflicher Erfolge.
+> _Die Karriereplanung umfasst die systematische Planung und Umsetzung beruflicher Ziele. Sie beinhaltet die Analyse der eigenen Stärken, Schwächen, Chancen und Risiken sowie die Entwicklung von Strategien zur Erreichung langfristiger beruflicher Erfolge._
 
 🔑 **Wichtige Begriffe:**
 
 - **Berufsziel** – Angestrebte Position oder Entwicklung im Berufsleben.
-- **Weiterbildung** – Zusätzliche Qualifikationen zur Verbesserung der Karrierechancen.
+- **[[Berufliche Fortbildung]]** – Zusätzliche Qualifikationen zur Verbesserung der Karrierechancen.
+- **[[Existenzgründung]]**
 - **Netzwerken** – Aufbau und Pflege beruflicher Kontakte.
 - **Mentoring** – Unterstützung durch erfahrene Fachkräfte.
 - **Work-Life-Balance** – Ausgewogenheit zwischen Berufs- und Privatleben.
@@ -55,21 +49,3 @@
 
 - **Fallbeispiel:** Ein Arbeitnehmer möchte in eine Führungsposition aufsteigen.
 - **Lösung:** Er besucht Weiterbildungen, sucht sich einen Mentor und baut ein starkes berufliches Netzwerk auf.
-
----
-
-## 🔹 4. Verknüpfungen & Notizen
-
-🔗 **Verwandte Themen:**
-
-- [[Potenzialanalyse]]
-- [[Mitarbeiterentwicklung]]
-- [[Selbstmanagement]]
-
-📝 **Eigene Anmerkungen & Ergänzungen:**
-
-- Karriereplanung sollte regelmäßig überprüft und angepasst werden.
-- Soft Skills wie Kommunikationsfähigkeit und Teamarbeit sind für den Erfolg entscheidend.
-- Digitale Weiterbildungsmöglichkeiten (z. B. Online-Kurse) gewinnen an Bedeutung.
-
----

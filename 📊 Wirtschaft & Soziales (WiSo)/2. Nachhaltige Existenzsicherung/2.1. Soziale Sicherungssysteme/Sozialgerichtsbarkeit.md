@@ -1,11 +1,4 @@
 # Sozialgerichtsbarkeit
-
-📌 **Thema:** Sozialgerichtsbarkeit  
-📅 **Letzte Überarbeitung:** 2025-03-04  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

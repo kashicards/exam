@@ -1,11 +1,4 @@
 # Tarifrecht
-
-📌 **Thema:** Tarifrecht  
-📅 **Letzte Überarbeitung:** 2025-03-03  
-🗂 **Kategorie:** #gewerkschaften-und-mitbestimmung
-
----
-
 ## 🔹 1. Überblick
 
 📚 **Definition / Kurzfassung:**

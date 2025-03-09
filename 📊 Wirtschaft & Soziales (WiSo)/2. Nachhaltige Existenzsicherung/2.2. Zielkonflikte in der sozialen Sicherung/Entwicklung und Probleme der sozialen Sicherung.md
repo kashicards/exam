@@ -1,14 +1,7 @@
 # Entwicklung und Probleme der sozialen Sicherung
-
-📌 **Thema:** Entwicklung und Probleme der sozialen Sicherung  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
-📖 **Definition / Kurzfassung:**
+📚 **Definition / Kurzfassung:**
 
 > Die soziale Sicherung in Deutschland ist ein historisch gewachsenes System, das die Bevölkerung gegen existenzielle Risiken wie Krankheit, Alter, Arbeitslosigkeit oder Pflegebedürftigkeit absichert. Sie basiert auf dem Sozialstaatsprinzip gemäß Artikel 20 des Grundgesetzes und wird durch Sozialversicherungen sowie steuerfinanzierte Leistungen gewährleistet. Herausforderungen wie der demografische Wandel, steigende Sozialausgaben und sich verändernde Arbeitsmarktstrukturen stellen das System vor große Probleme.
 
@@ -36,7 +29,7 @@
 |**2000er Jahre**|Reformen zur Stabilisierung der sozialen Sicherung (z. B. Hartz-Reformen, Rente mit 67, Riester-Rente)|
 |**2020er Jahre**|Diskussion über Grundrente, Rentenstabilisierung und steigende Sozialkosten durch demografischen Wandel|
 
-🔍 **Wichtige Reformen und Gesetzesänderungen:**
+🛡️ **Wichtige Reformen und Gesetzesänderungen:**
 
 - **Hartz-Reformen (2003-2005):** Einführung von ALG II (heute Bürgergeld), Förderung von Eigenverantwortung, aber auch Kritik an Leistungskürzungen.
 - **Rente mit 67 (2007):** Anhebung des Renteneintrittsalters zur Stabilisierung des Rentensystems.
@@ -47,7 +40,7 @@
 
 ## 🔹 3. Aktuelle Probleme der sozialen Sicherung
 
-⚠️ **Herausforderungen und Kritikpunkte:**
+🛑 **Herausforderungen und Kritikpunkte:**
 
 |Problem|Beschreibung|Lösungsvorschläge|
 |---|---|---|
@@ -57,33 +50,24 @@
 |**Arbeitsmarktveränderung**|Digitalisierung, mehr Selbstständige und atypische Beschäftigung erschweren das Sozialversicherungssystem|Neue Beitragsmodelle für Selbstständige|
 |**Verlust von Sozialleistungen**|Verschärfte Bedingungen bei ALG II/Bürgergeld führen zu Existenzängsten|Soziale Absicherung flexibilisieren|
 
-📌 **Wichtige Diskussionen:**
-
-- Soll die Rentenversicherung teilweise kapitalgedeckt werden?
-- Ist eine einheitliche Bürgerversicherung für alle sinnvoll?
-- Wie kann die Pflegeversicherung langfristig finanziert werden?
-- Braucht es eine Grundsicherung für alle Bürger?
-
 ---
 
-## 🔹 4. Wichtige Gesetze und Regelungen
+## 🔹 4. Zielkonflikte der sozialen Sicherung
 
-📜 **Gesetzliche Grundlagen:**
+📺 **Typische Konflikte:**
 
-|Gesetz / Vorschrift|Bedeutung|
-|---|---|
-|**Grundgesetz (Art. 20, 28)**|Sozialstaatsprinzip: Staat verpflichtet sich zur Sicherstellung der sozialen Sicherung|
-|**Sozialgesetzbuch (SGB)**|Regelt alle Sozialleistungen (Kranken-, Renten-, Arbeitslosen-, Pflegeversicherung, Sozialhilfe, Bürgergeld)|
-|**SGB II (Bürgergeld)**|Absicherung von erwerbsfähigen Arbeitslosen, Anreize zur Arbeitsaufnahme|
-|**SGB XII (Sozialhilfe)**|Grundsicherung für nicht erwerbsfähige Personen|
-|**Rentenversicherungsgesetz**|Regelt Rentenansprüche und Finanzierung des Rentensystems|
-|**Pflegeversicherungsgesetz**|Absicherung gegen Pflegebedürftigkeit, Reformen zur besseren Absicherung von Pflegeleistungen|
+|Zielkonflikt|Beschreibung|Beispiele|
+|---|---|---|
+|**Soziale Gerechtigkeit vs. Wirtschaftliche Effizienz**|Soziale Sicherung soll Armut vermeiden, aber hohe Sozialausgaben können Unternehmen und Arbeitnehmer belasten.|Erhöhung der Sozialbeiträge vs. Wettbewerbsfähigkeit der Wirtschaft|
+|**Generationen-Gerechtigkeit vs. Finanzierbarkeit**|Rentensystem basiert auf dem Umlageverfahren – weniger Junge finanzieren mehr Rentner.|Rente mit 67, private Vorsorge|
+|**Umverteilung vs. Eigenverantwortung**|Sozialleistungen sollen absichern, aber zu starke Umverteilung kann Arbeitsanreize senken.|Hartz IV/Bürgergeld-Debatte|
+|**Beitragsstabilität vs. Leistungsniveau**|Hohe Leistungen brauchen hohe Beiträge, aber höhere Beiträge belasten Bürger und Unternehmen.|Pflegeversicherung, Rentenversicherung|
 
 ---
 
 ## 🔹 5. Fazit und mögliche Zukunftsaussichten
 
-📌 **Zusammenfassung:**
+📉 **Zusammenfassung:**
 
 - Die soziale Sicherung in Deutschland hat sich historisch entwickelt und wird ständig reformiert.
 - Der Sozialstaat steht vor großen Herausforderungen wie demografischem Wandel, Finanzierungsproblemen und Arbeitsmarktveränderungen.
@@ -91,8 +75,7 @@
 
 📈 **Zukunftsausblick:**
 
-- **Rentensystem:** Weiterentwicklung durch Zuschüsse, private Vorsorge oder längere Lebensarbeitszeit.
-- **Pflegesystem:** Anpassung an steigenden Pflegebedarf durch bessere Finanzierung und Fachkräftegewinnung.
-- **Digitalisierung:** Neue Beschäftigungsmodelle erfordern Reformen im Sozialversicherungssystem.
-- **Grundsicherung:** Diskussion über bedingungsloses Grundeinkommen oder Bürgerversicherung.
-
+- Weiterentwicklung des Rentensystems durch Zuschüsse, private Vorsorge oder längere Lebensarbeitszeit.
+- Anpassung des Pflegesystems an steigenden Pflegebedarf.
+- Digitalisierung erfordert Reformen im Sozialversicherungssystem.
+- Diskussion über bedingungsloses Grundeinkommen oder Bürgerversicherung.

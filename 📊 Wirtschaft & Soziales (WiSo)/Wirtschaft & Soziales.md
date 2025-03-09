@@ -99,7 +99,22 @@
 - [[Aufgaben, Aufbau und Ziele von Betrieben]]
 - [[Rechtsformen von Unternehmen]]
     - [[Personengesellschaften]]
+        - [[OHG]]
+        - [[KG]]
+        - [[GbR]]
+        - [[PartG]]
     - [[Kapitalgesellschaften]]
+        - [[GmbH]]
+        - [[AG]]
+        - [[UG]]
+        - [[KGaA]]
+    - [[Genossenschaften]]
+        - [[eG]]
+    - [[Einzelunternehmen]]
+        - [[Einzelkaufmann]]
+        - [[Kleingewerbetreibende]]
+    - [[Vereine]]
+        - [[eV]]
 
 ## 3.2. Verbraucher und Konsum
 
@@ -145,7 +160,11 @@
 
 - [[Nachfrage und Angebot]]
 - [[Wirtschaftskreislauf]]
-- [[Geldpolitik und Fiskalpolitik]]
+- [[Fiskalpolitik]]
+- [[Geldpolitik]]
+    - [[Europäische Zentralbank (EZB)]]
+    - [[Euro und Währungsunion]]
+    - [[Zinssteuerung und Inflation]]
 - [[Staatshaushalt und Verschuldung]]
 
 ### 3.4.4. Wirtschaftspolitische Ziele und Steuerung

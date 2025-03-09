@@ -1,11 +1,4 @@
 # Staatliche Fördermaßnahmen
-
-📌 **Thema:** Staatliche Fördermaßnahmen 
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

@@ -1,11 +1,4 @@
 # ⚡ Berufsausbildungsvertrag
-
-📌 **Thema:** Berufsausbildungsvertrag  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** #berufsausbildung
-
----
-
 ## 🔹 1. Überblick
 
 📚 **Definition / Kurzfassung:**

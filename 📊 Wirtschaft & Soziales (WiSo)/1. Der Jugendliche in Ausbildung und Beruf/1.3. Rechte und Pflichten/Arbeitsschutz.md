@@ -1,11 +1,4 @@
 # Arbeitsschutz
-
-📌 **Thema:** Arbeitsschutz  
-📅 **Letzte Überarbeitung:** 2025-03-03  
-🗂 **Kategorie:** #rechte-und-pflichten  
-
----
-
 ## 🔹 1. Überblick
 
 📚 **Definition / Kurzfassung:**

@@ -1,11 +1,4 @@
 # Partizipationsstrategien
-
-📌 **Thema:** Partizipationsstrategien 
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** #gewerkschaften-und-mitbestimmung
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

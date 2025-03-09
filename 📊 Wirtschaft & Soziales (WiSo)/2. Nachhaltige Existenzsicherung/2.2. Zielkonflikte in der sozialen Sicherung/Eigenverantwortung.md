@@ -1,9 +1,4 @@
-Eigenverantwortung
-📌 **Thema:** Eigenverantwortung  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO  
-
----
+# Eigenverantwortung
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

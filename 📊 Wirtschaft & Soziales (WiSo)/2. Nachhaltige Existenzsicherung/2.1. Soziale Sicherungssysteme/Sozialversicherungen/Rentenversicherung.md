@@ -1,11 +1,4 @@
 # Rentenversicherung
-
-📌 **Thema:** Rentenversicherung  
-📅 **Letzte Überarbeitung:** 2025-03-04  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Grundprinzipien der Rentenversicherung
 
 📚 **Definition:**

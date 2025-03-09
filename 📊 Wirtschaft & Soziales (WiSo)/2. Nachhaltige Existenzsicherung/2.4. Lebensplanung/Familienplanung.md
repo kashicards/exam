@@ -1,16 +1,9 @@
 # Familienplanung
-
-📌 **Thema:** Familienplanung  
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**
 
-> _Familienplanung umfasst alle bewussten Entscheidungen und Maßnahmen zur Gestaltung der persönlichen und beruflichen Zukunft im Zusammenhang mit der Gründung und Entwicklung einer Familie. Sie beinhaltet Aspekte wie Kinderwunsch, finanzielle Absicherung, Vereinbarkeit von Familie und Beruf sowie gesetzliche Rahmenbedingungen.
+> _Familienplanung umfasst alle bewussten Entscheidungen und Maßnahmen zur Gestaltung der persönlichen und beruflichen Zukunft im Zusammenhang mit der Gründung und Entwicklung einer Familie. Sie beinhaltet Aspekte wie Kinderwunsch, finanzielle Absicherung, Vereinbarkeit von Familie und Beruf sowie gesetzliche Rahmenbedingungen._
 
 🔑 **Wichtige Begriffe:**
 
@@ -32,12 +25,12 @@
 
 ⚖️ **Wichtige Regeln / Vorschriften:**
 
-|Regelung|Bedeutung / Auswirkung|
-|---|---|
-|Elternzeitanspruch|Arbeitnehmer können bis zu drei Jahre pro Kind in Elternzeit gehen.|
-|Kündigungsschutz|Schwangere und Eltern in Elternzeit genießen besonderen Kündigungsschutz.|
-|Mutterschutzfrist|Sechs Wochen vor und acht Wochen nach der Geburt darf die Mutter nicht arbeiten.|
-|Elterngeld|Höhe und Dauer sind abhängig vom vorherigen Einkommen.|
+| Regelung           | Bedeutung / Auswirkung                                                           |
+| ------------------ | -------------------------------------------------------------------------------- |
+| Elternzeitanspruch | Arbeitnehmer können bis zu drei Jahre pro Kind in Elternzeit gehen.              |
+| Kündigungsschutz   | Schwangere und Eltern in Elternzeit genießen besonderen Kündigungsschutz.        |
+| Mutterschutzfrist  | Sechs Wochen vor und acht Wochen nach der Geburt darf die Mutter nicht arbeiten. |
+| Elterngeld         | Höhe und Dauer sind abhängig vom vorherigen Einkommen.                           |
 
 ---
 
@@ -56,21 +49,3 @@
 
 - **Fallbeispiel:** Eine berufstätige Mutter möchte nach der Geburt ihres Kindes schnell wieder arbeiten.
 - **Lösung:** Sie beantragt eine verkürzte Elternzeit, organisiert eine Kinderbetreuung und nutzt flexible Arbeitszeitmodelle.
-
----
-
-## 🔹 4. Verknüpfungen & Notizen
-
-🔗 **Verwandte Themen:**
-
-- [[Arbeitsrecht]]
-- [[Sozialleistungen]]
-- [[Work-Life-Balance]]
-
-📝 **Eigene Anmerkungen & Ergänzungen:**
-
-- Familienplanung beeinflusst die berufliche Laufbahn und sollte gut durchdacht sein.
-- Arbeitgeber bieten zunehmend familienfreundliche Maßnahmen wie Homeoffice oder Betriebskitas an.
-- Eine frühzeitige finanzielle Absicherung (z. B. durch Versicherungen oder Sparpläne) kann langfristige Vorteile bringen.
-
----

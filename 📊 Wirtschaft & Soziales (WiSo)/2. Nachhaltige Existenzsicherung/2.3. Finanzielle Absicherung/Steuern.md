@@ -1,75 +1,127 @@
 # Steuern
-
-📌 **Thema:** Steuern  
-📅 **Letzte Überarbeitung:** 2025-03-04  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**
 
-> _Steuern sind verpflichtende Abgaben, die von den Bürgern an den Staat und andere öffentliche Institutionen gezahlt werden, um öffentliche Aufgaben zu finanzieren. Sie sind nicht unmittelbar für eine spezielle Leistung oder Gegenleistung vorgesehen und dienen der Erzielung von Einnahmen zur Deckung des Staatsbedarfs. Die Steuerlast wird nach der Leistungsfähigkeit des Steuerpflichtigen verteilt.
+> _Steuern sind finanzielle Abgaben, die Bürger und Unternehmen an den Staat oder an öffentliche Institutionen leisten müssen. Sie dienen der Finanzierung öffentlicher Aufgaben und sind nicht direkt an eine Gegenleistung gebunden. Steuerpflichtige müssen Steuern gemäß ihrer wirtschaftlichen Leistungsfähigkeit zahlen. In Deutschland sind Steuern in verschiedene Kategorien unterteilt, wie Einkommenssteuer, Körperschaftsteuer und Mehrwertsteuer, die durch verschiedene Gesetze geregelt werden._
 
 🔑 **Wichtige Begriffe:**
 
-- **Steuerpflicht** – Die gesetzliche Verpflichtung, Steuern zu zahlen.
-- **Steuererklärung** – Eine Erklärung, in der Steuerpflichtige ihre Einkünfte und Ausgaben an das Finanzamt melden, um ihre Steuerlast zu berechnen.
-- **Steuersatz** – Der Prozentsatz, mit dem das zu versteuernde Einkommen, Vermögen oder der Umsatz besteuert wird.
-- **Progression** – Ein Steuermechanismus, bei dem der Steuersatz mit steigendem Einkommen zunimmt (z. B. bei der Einkommenssteuer).
-- **Steuerarten** – Unterschiedliche Arten von Steuern, die je nach Steuerobjekt und Steuerpflichtigem erhoben werden (z. B. Einkommenssteuer, Mehrwertsteuer, Körperschaftsteuer).
+- **Steuerpflicht:** Die Verpflichtung von natürlichen und juristischen Personen, Steuern zu zahlen.
+- **Steuererklärung:** Eine offizielle Erklärung, die vom Steuerpflichtigen abgegeben wird, um seine Einkünfte, Ausgaben und Steuerlast zu melden.
+- **Steuersatz:** Der Prozentsatz, mit dem das zu versteuernde Einkommen oder Vermögen besteuert wird.
+- **Progression:** Ein Steuermechanismus, bei dem der Steuersatz mit steigendem Einkommen oder Vermögen zunimmt.
+- **Steuerarten:** Verschiedene Arten von Steuern, wie Einkommenssteuer, Körperschaftsteuer und Mehrwertsteuer.
 
 ---
 
-## 🔹 2. Gesetzliche Grundlagen / Vorschriften
+## 🔹 2. Steuerarten
 
-📜 **Gesetze & Paragraphen:**
+### **Direkte Steuern:**
 
-- **Abgabenordnung (AO)** – Regelt die grundlegenden steuerlichen Bestimmungen, wie z. B. die Steuererhebung, die Steuerpflicht und die Steuererklärung.
-- **Einkommenssteuergesetz (EStG)** – Regelt die Erhebung der Einkommenssteuer, einschließlich der Berechnung des steuerpflichtigen Einkommens und der Abzüge.
-- **Umsatzsteuergesetz (UStG)** – Bestimmt, wie die Mehrwertsteuer auf Waren und Dienstleistungen zu berechnen und abzuführen ist.
-- **Körperschaftsteuergesetz (KStG)** – Regelt die Besteuerung von Kapitalgesellschaften (z. B. GmbH, AG).
-- **Erbschafts- und Schenkungssteuergesetz (ErbStG)** – Bestimmt, wie Vermögensübertragungen durch Erbschaft oder Schenkung besteuert werden.
+Direkte Steuern werden auf das Einkommen, Vermögen oder den Gewinn eines Steuerpflichtigen erhoben. Die Steuer wird direkt vom Steuerpflichtigen an den Staat abgeführt.
 
-⚖️ **Wichtige Regeln / Vorschriften:**
+#### 1. **Einkommenssteuer (EStG)**
 
-|Regelung|Bedeutung / Auswirkung|
-|---|---|
-|**Progressive Steuererhebung**|Der Steuersatz steigt mit der Höhe des Einkommens, um eine gerechtere Verteilung der Steuerlast zu gewährleisten.|
-|**Sonderausgaben**|Steuerliche Abzugsfähigkeiten für bestimmte Ausgaben wie Kirchensteuer, Spenden oder Ausbildungskosten.|
-|**Mehrwertsteuer**|Eine indirekte Steuer, die auf den Verkauf von Waren und Dienstleistungen erhoben wird und vom Endverbraucher getragen wird.|
+**Gesetz:** Einkommenssteuergesetz (EStG)
+
+ > Die Einkommenssteuer wird auf das Einkommen von natürlichen Personen erhoben. Sie unterliegt einer **progressiven Besteuerung**, das heißt, je mehr jemand verdient, desto höher ist der Steuersatz.
+
+- **Berechnung:** Das zu versteuernde Einkommen wird aus sämtlichen Einkünften eines Steuerpflichtigen (z. B. Löhne, Gehälter, Mieteinnahmen) abzüglich steuerlich absetzbarer Ausgaben berechnet.
+    - Steuerfreie Beträge und Freibeträge wie der Grundfreibetrag können das zu versteuernde Einkommen reduzieren.
+    
+- **Beispiel:** Wenn jemand 50.000 Euro brutto im Jahr verdient, wird dieser Betrag versteuert, wobei der Steuersatz nach der Einkommenshöhe steigt.
+    
+
+#### 2. **Körperschaftsteuer (KStG)**
+
+**Gesetz:** Körperschaftsteuergesetz (KStG)
+
+> Diese Steuer wird auf den Gewinn von Kapitalgesellschaften (z. B. GmbHs, AGs) erhoben. Sie ist eine **direkte Steuer** und wird jährlich auf den Gewinn des Unternehmens angewendet.
+
+- **Steuersatz:** Der Steuersatz beträgt in Deutschland grundsätzlich **15%** auf den steuerpflichtigen Gewinn.
+- **Beispiel:** Eine GmbH erzielt einen Gewinn von 200.000 Euro. Diese Gesellschaft müsste Körperschaftsteuer in Höhe von 15% auf den Gewinn zahlen, also 30.000 Euro.
+
+#### 3. **Gewerbesteuer**
+
+**Gesetz:** Gewerbesteuergesetz
+
+> Die Gewerbesteuer wird auf den Ertrag von Unternehmen erhoben. Sie variiert je nach Gemeinde, da sie auf Grundlage des **Hebesatzes** festgelegt wird.
+
+- **Steuersatz:** Der **Steuersatz** variiert zwischen 7% und 17%, je nach Gemeinde.
+- **Beispiel:** Ein Unternehmen hat einen steuerpflichtigen Gewinn von 100.000 Euro, und der Hebesatz der Gemeinde beträgt 350%. Der Gewerbesteuermessbetrag von 3,5% wird mit dem Hebesatz multipliziert, was zu einer effektiven Gewerbesteuer von 12.250 Euro führt.
+
+### **Indirekte Steuern:**
+
+Indirekte Steuern werden auf den Konsum von Waren und Dienstleistungen erhoben und in der Regel vom Endverbraucher bezahlt.
+
+#### 1. **Umsatzsteuer (Mehrwertsteuer, UStG)**
+
+**Gesetz:** Umsatzsteuergesetz (UStG)
+
+> Die Umsatzsteuer (USt) ist eine Steuer auf den Verkauf von Waren und Dienstleistungen. Sie wird von den Unternehmen erhoben und an das Finanzamt abgeführt, jedoch vom Endverbraucher getragen.
+
+- **Steuersatz:** Der reguläre Steuersatz liegt bei **19%**, es gibt jedoch ermäßigte Sätze von **7%** für bestimmte Waren und Dienstleistungen (z. B. Lebensmittel, Bücher).
+- **Beispiel:** Ein Unternehmen verkauft ein Produkt für 100 Euro. Die Umsatzsteuer in Höhe von 19 Euro (19%) wird zusätzlich erhoben und muss an das Finanzamt abgeführt werden.
+
+#### 2. **Verbrauchsteuern**
+
+> Diese Steuern betreffen den Konsum bestimmter Produkte wie Tabakwaren, Alkohol oder Kraftstoffe.
+- **Beispiel:** Auf Zigaretten wird eine spezielle Verbrauchssteuer erhoben, die den Preis des Produkts beeinflusst.
 
 ---
 
-## 🔹 3. Praxisbezug & Beispiele
+## 🔹 3. Gesetzliche Grundlagen / Vorschriften
 
-💡 **Typische Prüfungsfragen:**
+Die steuerrechtlichen Grundlagen in Deutschland sind vielfältig und beinhalten verschiedene Gesetze:
 
-1. **Frage:** Was versteht man unter der Steuerprogression?  
-    **Antwort:** Steuerprogression bedeutet, dass der Steuersatz mit steigendem Einkommen zunimmt. Je mehr jemand verdient, desto höher ist der Prozentsatz, den er auf sein Einkommen zahlen muss. Dies gilt vor allem bei der Einkommenssteuer in Deutschland.
-2. **Frage:** Was sind die Unterschiede zwischen direkten und indirekten Steuern?  
-    **Antwort:** Direkte Steuern werden direkt auf das Einkommen, Vermögen oder den Gewinn erhoben, z. B. Einkommenssteuer oder Körperschaftsteuer. Indirekte Steuern werden auf den Konsum von Waren und Dienstleistungen erhoben, wie z. B. die Mehrwertsteuer.
+### **Abgabenordnung (AO)**
 
-🛠 **Beispiel aus der Praxis:**
+- **Gesetz:** Abgabenordnung (AO)
+- **Beschreibung:** Die Abgabenordnung regelt die allgemeinen Vorschriften zur Steuererhebung, Steuerpflicht und -erklärung. Sie definiert unter anderem, wie Steuerbescheide erstellt werden und welche Rechte und Pflichten die Steuerpflichtigen und Finanzbehörden haben.
 
-- **Fallbeispiel:** Ein Unternehmen erzielt einen Gewinn von 200.000 Euro. Es muss Körperschaftsteuer auf den Gewinn zahlen, wobei der Steuersatz 15% beträgt. Zusätzlich zahlt das Unternehmen auch Gewerbesteuer.
-- **Wie würde man es lösen?** Der Steuerberater würde zunächst den steuerpflichtigen Gewinn ermitteln, dann den Körperschaftsteuersatz anwenden und danach die Gewerbesteuer berechnen, die je nach Standort des Unternehmens variiert.
+### **Einkommenssteuergesetz (EStG)**
+
+- **Gesetz:** Einkommenssteuergesetz (EStG)
+- **Beschreibung:** Dieses Gesetz regelt die Erhebung der Einkommenssteuer. Es definiert das zu versteuernde Einkommen, Abzugsfähigkeiten, Steuerklassen und die Steuerprogression.
+
+### **Umsatzsteuergesetz (UStG)**
+
+- **Gesetz:** Umsatzsteuergesetz (UStG)
+- **Beschreibung:** Das UStG regelt die Mehrwertsteuer auf den Verkauf von Waren und Dienstleistungen. Es definiert, wann und wie Umsatzsteuer erhoben und abgeführt wird.
+
+### **Körperschaftsteuergesetz (KStG)**
+
+- **Gesetz:** Körperschaftsteuergesetz (KStG)
+- **Beschreibung:** Das Körperschaftsteuergesetz regelt die Besteuerung von Kapitalgesellschaften (z. B. GmbHs, AGs) und definiert, wie der steuerpflichtige Gewinn ermittelt wird.
 
 ---
 
-## 🔹 4. Verknüpfungen & Notizen
+## 🔹 4. Steuerliche Berechnungen & Praxisbeispiele
 
-🔗 **Verwandte Themen:**
+### 💡 Typische Prüfungsfragen:
 
-- [[Einkommensteuer]]
-- [[Umsatzsteuer]]
-- [[Körperschaftsteuer]]
-- [[Abgabenordnung (AO)]]
-- [[Steuergestaltung]]
+1. **Frage:** Was ist der Unterschied zwischen Einkommenssteuer und Körperschaftsteuer?  
+    **Antwort:** Die Einkommenssteuer wird auf das Einkommen von natürlichen Personen erhoben, während die Körperschaftsteuer den Gewinn von Kapitalgesellschaften besteuert.
+    
+2. **Frage:** Wie wird die Umsatzsteuer berechnet?  
+    **Antwort:** Die Umsatzsteuer wird auf den Verkaufspreis von Waren und Dienstleistungen angewendet, wobei der Steuersatz 19% beträgt, es gibt jedoch auch ermäßigte Sätze von 7% auf bestimmte Produkte.
+    
 
-📝 **Eigene Anmerkungen & Ergänzungen:**
+### 🛠 **Beispiel aus der Praxis:**
 
-- In der Praxis ist die Steuererklärung ein wichtiger Bestandteil der Steuerpflicht. Unternehmen und Privatpersonen müssen ihre Einkünfte, Ausgaben und Steuerabzüge korrekt an das Finanzamt melden, um die Steuerlast zu berechnen.
-- Besonders wichtig für die Prüfung ist das Verständnis der **steuerlichen Abzüge** und **Freibeträge**, da diese oft die Höhe der Steuerlast erheblich beeinflussen können. Dazu gehören z. B. der Grundfreibetrag bei der Einkommenssteuer oder die Abzugsfähigkeit von Betriebsausgaben.
-- Auch die **Mehrwertsteuer** spielt eine wichtige Rolle im Wirtschaftsleben. Unternehmen sind verpflichtet, diese Steuer von ihren Kunden zu erheben und an das Finanzamt abzuführen. Privatpersonen bezahlen die Mehrwertsteuer auf fast alle Waren und Dienstleistungen, die sie erwerben.
+1. **Einkommenssteuer:**  
+    Ein Arbeitnehmer mit einem Jahreseinkommen von 60.000 Euro unterliegt der Einkommenssteuer. Der progressive Steuersatz bedeutet, dass er mit höheren Einkommensstufen mehr Steuern zahlen muss. Die Steuer wird vom Bruttogehalt abgezogen.
+    
+2. **Umsatzsteuer:**  
+    Ein Unternehmer verkauft ein Produkt für 200 Euro (netto) und erhebt eine Umsatzsteuer von 19%. Der Endpreis für den Kunden beträgt 238 Euro, und der Unternehmer führt die 38 Euro Umsatzsteuer an das Finanzamt ab.
+    
+
+---
+
+## 🔹 5. Weitere Steuerarten und -spezifika
+
+### **Erbschaft- und Schenkungssteuer (ErbStG)**
+
+- **Gesetz:** Erbschafts- und Schenkungssteuergesetz (ErbStG)
+- **Beschreibung:** Diese Steuer wird auf den Erwerb von Vermögen durch Erbschaft oder Schenkung erhoben. Die Höhe der Steuer hängt von der Höhe des geerbten Vermögens und dem Verwandtschaftsgrad zwischen dem Erblasser und dem Erben ab.

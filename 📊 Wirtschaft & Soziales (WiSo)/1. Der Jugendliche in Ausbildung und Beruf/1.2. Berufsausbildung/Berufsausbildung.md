@@ -1,10 +1,4 @@
-# **Berufsausbildung**  
-📌 **Thema:** Berufsausbildung  
-📅 **Letzte Überarbeitung:** 2025-03-03  
-🗂 **Kategorie:** #berufsausbildung  
-
----
-
+# Berufsausbildung
 ## 🔹 1. Überblick
 
 📚 **Definition / Kurzfassung:**  

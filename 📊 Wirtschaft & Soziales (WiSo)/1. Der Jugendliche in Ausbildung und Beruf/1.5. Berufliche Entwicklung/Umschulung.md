@@ -1,11 +1,4 @@
 # Umschulung
-
-📌 **Thema:** Umschulung 
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

@@ -1,5 +1,4 @@
 # Versicherungsprinzipien 
-
 ## 🔹 1. Was sind Versicherungsprinzipien?
 
 📖 **Definition / Kurzfassung:**

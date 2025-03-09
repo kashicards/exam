@@ -1,9 +1,4 @@
 # Konsumgewohnheiten
-📌 **Thema:** Konsumgewohnheiten
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** WISO  
-
----
 ## 🔹 1. Überblick
 
 📚 **Definition / Kurzfassung:**

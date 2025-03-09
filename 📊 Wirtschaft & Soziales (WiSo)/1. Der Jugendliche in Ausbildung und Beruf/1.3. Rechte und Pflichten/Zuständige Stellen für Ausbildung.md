@@ -1,10 +1,4 @@
 # Zuständige Stellen für Ausbildung
-📌 **Thema:** Zuständige Stellen für Ausbildung
-📅 **Letzte Überarbeitung:** {{date:YYYY-MM-DD}}  
-🗂 **Kategorie:** #rechte-und-pflichten    
-
----
-
 ## 🔹 1. Überblick
 
 📖 **Definition / Kurzfassung:**

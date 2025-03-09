@@ -1,5 +1,4 @@
 # Grundzüge des sozialen Sicherungssystems
-
 ## 🔹 1. Überblick
 
 📚 **Definition / Kurzfassung:**
